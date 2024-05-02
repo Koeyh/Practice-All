@@ -10,4 +10,4 @@ Java 프로젝트 연동부터 커밋, README 작성까지 아직 능숙하게 �
 
 오늘은 "#, *, _ "처럼 작성 시 사용 가능한 팁과 README 파일에 이미지를 업로드 하는 것을 찾아봤다.
 
-<img src="https://github.com/Koeyh/Sample/assets/156414715/16122eeb-ee45-4225-a24d-cd88a3f53858" width="300", height="300">
+<img src="https://github.com/Koeyh/Sample/assets/156414715/16122eeb-ee45-4225-a24d-cd88a3f53858" width="300" height="300">
